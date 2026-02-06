@@ -1,16 +1,54 @@
-## Hi there 👋
+# Mr Zeroday
 
-<!--
-**mrzeroday404-crypto/mrzeroday404-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Anonymous investigations exposing scams, fraud, and digital deception.**
 
-Here are some ideas to get you started:
+Mr Zeroday is an independent initiative focused on uncovering real-world scams, misleading platforms, fraudulent operations, and hidden digital risks.  
+We operate anonymously to ensure unbiased research, investigator safety, and freedom to publish the truth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 What We Do
+
+- Investigate online scams and fraudulent schemes  
+- Analyze suspicious platforms, websites, and services  
+- Document patterns used in digital fraud and social engineering  
+- Publish clear, evidence-based findings  
+- Educate users to stay informed and protected  
+
+---
+
+## 🕶️ Why Anonymous?
+
+Anonymity allows us to:
+- Focus on facts, not personalities  
+- Avoid external pressure or influence  
+- Protect researchers and sources  
+- Publish findings without conflict of interest  
+
+The work matters more than the identity.
+
+---
+
+## 🌐 Platforms
+
+- Website: *(coming soon / add link)*  
+- LinkedIn: Mr Zeroday  
+- Instagram: Mr Zeroday  
+
+---
+
+## ⚠️ Disclaimer
+
+All content is published for **educational and informational purposes only**.  
+We do not provide legal advice. Readers are encouraged to verify findings independently.
+
+---
+
+## 📬 Contact
+
+For tips, reports, or collaboration inquiries:  
+📧 *(add anonymous email or secure contact method)*
+
+---
+
+**Unmasking truth. One investigation at a time.**
