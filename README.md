@@ -44,11 +44,4 @@ We do not provide legal advice. Readers are encouraged to verify findings indepe
 
 ---
 
-## 📬 Contact
-
-For tips, reports, or collaboration inquiries:  
-📧 *(add anonymous email or secure contact method)*
-
----
-
 **Unmasking truth. One investigation at a time.**
