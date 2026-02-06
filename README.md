@@ -1,4 +1,4 @@
-# Mr Zeroday
+# Mr.Zeroday
 
 **Anonymous investigations exposing scams, fraud, and digital deception.**
 
